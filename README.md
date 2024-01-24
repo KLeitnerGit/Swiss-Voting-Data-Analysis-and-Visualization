@@ -2,7 +2,7 @@
 
 This repository contains a simple data analysis and visualization project focusing on Swiss votes over the years. The visualisation inspect extreme voting results, it emphasizes  the 95th and 5th quantiles of voting data to highlight the most and least popular voting trends, providing unique insights into the Swiss electoral landscape.
 
-You can view the interactive graph here: [Extreme Suiss Votes](https://htmlpreview.github.io/?Plotly_Dash_App_ExtremeSwissVotes.html) 
+You can view the interactive graph here: [Extreme Suiss Votes](https://drive.google.com/uc?id=1cgyHj4yRz-WSyCFovbt04L016R7_cFeA) 
 
 https://drive.google.com/file/d/1cgyHj4yRz-WSyCFovbt04L016R7_cFeA/view?usp=sharing
 
