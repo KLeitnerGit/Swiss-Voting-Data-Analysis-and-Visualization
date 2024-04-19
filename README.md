@@ -3,7 +3,7 @@
 This repository contains a simple data analysis and visualization project focusing on Swiss votes over the years. The visualisation inspect extreme voting results, it emphasizes  the 95th and 5th quantiles of voting data to highlight the most and least popular voting trends, providing unique insights into the Swiss electoral landscape.
 
 
-[Plotly_Dash_App_ExtremeSwissVotes.html](https://drive.google.com/file/d/14p4r9uy71Lk963vjmU-Skqf6KI3aDMFT/view?usp=drive_link)
+[Get the Result here: Plotly_Dash_App_ExtremeSwissVotes.html](https://drive.google.com/uc?export=download&id=14p4r9uy71Lk963vjmU-Skqf6KI3aDMFT)
 
 The data used for this purpose comes from the University of Bern. The Année Politique Suisse, based there, maintains a comprehensive data set
 (Swissvotes) on all votes that have taken place since the founding of the modern federal state in 1848 (<https://swissvotes.ch/page/dataset>) to 2023. 
